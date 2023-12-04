@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital@1&family=Black+Ops+One&family=Mukta:wght@400;500;600;700&family=Noto+Sans:wght@100;200;300;400;500;600;700;800;900&family=Oswald:wght@400;500;600;700&family=Poppins:wght@400;500;600;700;800;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  width: 100%;
+  font-family: 'Noto Sans', sans-serif;
+  background-color: rgb(30, 30, 30);
+  color: #ffffff;
+  /* overflow: hidden; */
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+}
